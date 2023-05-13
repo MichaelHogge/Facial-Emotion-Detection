@@ -1,6 +1,5 @@
 # Facial Emotion Detection 
 ## MIT Applied Data Science Program: Capstone Project
-### Problem Definition
 #### Context:
 How do humans communicate with one another? While spoken and written communication may immediately come to mind, research by Dr. Albert Mehrabian has found that over 50% of communication is conveyed through body language, including facial expressions. In face-to-face conversation, body language, it turns out, plays a larger role in how our message is interpreted than both the words we choose, and the tone with which we deliver them. Our expression is a powerful window into our true feelings, and as such, it can be used as a highly-effective proxy for sentiment, particularly in the absence of written or spoken communication.
 
